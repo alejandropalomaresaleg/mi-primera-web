@@ -199,6 +199,8 @@ a:hover {
 
 #personajes + ul li strong {
   color: var(--pink);
+  display: block;
+  margin-bottom: 0.25rem;
   font-size: 1.08rem;
   font-weight: 700;
 }
